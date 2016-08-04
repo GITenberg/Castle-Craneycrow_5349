@@ -1,0 +1,32 @@
+_repo: Castle-Craneycrow_5349
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McCutcheon, George Barr
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '1555'
+    url: http://www.gutenberg.org/2009/agents/1555
+    wikipedia: http://en.wikipedia.org/wiki/George_Barr_McCutcheon
+description: It was characteristic of Mr. Philip Quentin that he first lectured his
+  servant on the superiority of mind over matter and then took him cheerfully by the
+  throat and threw him into a far corner of the room. As the servant was not more
+  than half the size of the master, his opposition was merely vocal, but it was nevertheless
+  unmistakable. His early career had increased his vocabulary and his language was
+  more picturesque than pretty.
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Americans -- Europe -- Fiction'
+- !lcsh 'Abduction -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Castle Craneycrow
+url: http://www.gutenberg.org/ebooks/5349
